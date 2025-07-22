@@ -5,7 +5,20 @@ This project uses historical transaction data to identify potential credit card 
 - Frequent transactions in a short time span
 - Changes in delivery address (e.g., from home to P.O Box)
 - Mismatched IP addresses
+  
+## File Structure
 
+```
+|
+├── 📂 data
+│   ├── transactions.csv
+|   └── transactions.png
+|
+├── 📂 visuals/
+│   └── transaction_value_trends.png
+|
+└── 📄 README.md  (This File)
+```
 ## 🧠 Skills Learned
 - Descriptive data analysis
 - Anomaly detection
