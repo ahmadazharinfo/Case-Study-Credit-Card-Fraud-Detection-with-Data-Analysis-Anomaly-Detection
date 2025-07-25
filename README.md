@@ -1,4 +1,4 @@
-# Case Study : Credit Card Fraud etection with Data Analysis Anomaly Detection
+# Case Study : Credit Card Fraud Detection with Data Analysis Anomaly Detection
 This project uses historical transaction data to identify potential credit card fraud based on anomaly detection. It focuses on identifying unusual behavior, such as:
 
 - Sudden spikes in transaction amounts
